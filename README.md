@@ -10,9 +10,12 @@ Start the Webdriver ```webdriver-manager start```
 Run Protractor ```protractor conf.js```
 
 #Tutorials
-https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
-https://medium.com/@mburujr/beginners-guide-to-test-automation-using-protractor-part-2-creating-a-jasmine-framework-a6fac06d4909
-https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
+1. https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
+https://medium.com/@mburujr/
+
+2. beginners-guide-to-test-automation-using-protractor-part-2-creating-a-jasmine-framework-a6fac06d4909
+
+3. https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
 
 
 
