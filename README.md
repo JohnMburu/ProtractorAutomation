@@ -11,9 +11,8 @@ Run Protractor ```protractor conf.js```
 
 #Tutorials
 1. https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
-https://medium.com/@mburujr/
 
-2. beginners-guide-to-test-automation-using-protractor-part-2-creating-a-jasmine-framework-a6fac06d4909
+2. https://medium.com/@mburujr/beginners-guide-to-test-automation-using-protractor-part-2-creating-a-jasmine-framework-a6fac06d4909
 
 3. https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6
 
