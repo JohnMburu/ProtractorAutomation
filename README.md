@@ -7,7 +7,7 @@
 
 ## How to run Protractor
 Start the Webdriver ```webdriver-manager start```
-Run Protractor ```protractor conf.js```
+Run Protractor ```protractor conf/conf.js```
 
 #Tutorials
 1. https://medium.com/@mburujr/the-ultimate-test-automation-beginner-protractor-part-1-f1c4e3a0dbf6

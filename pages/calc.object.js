@@ -1,8 +1,4 @@
 var calculatorPage = function () {
-    var operatorInUse = 'SUBTRACTION';
-    var fistValue = 6;
-    var secondValue = 2;
-
     //identify all the elements in the Calculator Page
     //Labels
     var pageHeader = element(by.xpath('/html/body/div/div/h3'));
