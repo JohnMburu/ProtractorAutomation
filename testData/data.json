@@ -3,5 +3,26 @@
         "firstValue": 5,
         "secondValue": 5,
         "operator": "ADDITION"
+    },    
+    "data":{
+        "firstValue": 1,
+        "secondValue": 3,
+        "operator": "SUBTRACTION"
+    },
+
+    "data":{
+        "firstValue": 6,
+        "secondValue": 2,
+        "operator": "MODULO"
+    },
+    "data":{
+        "firstValue": 6,
+        "secondValue": 2,
+        "operator": "MULTIPLICATION"
+    },
+    "data":{
+        "firstValue": 6,
+        "secondValue": 4,
+        "operator": "DIVISION"
     }
 }

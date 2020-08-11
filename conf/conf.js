@@ -15,6 +15,12 @@ exports.config = {
 
   // Framework to use. Jasmine is recommended.
   framework: 'jasmine',
+  onPrepare: function() {
+    var AllureReporter = require('jasmine-allure-reporter');
+    jasmine.getEnv().addReporter(new AllureReporter({
+      resultsDir: 'allure-results'
+    }));
+  },
 
   // Spec patterns are relative to the current working directory when
   // protractor is called.
@@ -23,4 +29,5 @@ exports.config = {
   jasmineNodeOpts: {
     defaultTimeoutInterval: 30000
   },
+  
 };
